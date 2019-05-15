@@ -3,8 +3,8 @@
 # 
 # - Clarity of structure is prefered over build-performance. 
 
-FROM ubuntu:15.04
-MAINTAINER Jens Neuhalfen <Jens@neuhalfen.name>
+FROM ubuntu:18.04
+MAINTAINER Petr Michalec <pmichalec@ves.io>
 
 # CONFIG
 
